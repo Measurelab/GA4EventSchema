@@ -29,14 +29,15 @@ To summarise:
 [Version 0.1 of the schema exists here](https://docs.google.com/spreadsheets/d/1ekAwEi_jgztQRYzkZ8y5mCPlt0e139fHvQxdpdQfSZU/edit#gid=0) as a view-only Google Sheet. You are welcome to download or make a copy. We plan to turn this into a table in a page on this site once we've reached "critical mass" in the sheet.
 
 ### How to get involved
-Anyone is free to make suggestions for new custom events and parameters, using this Google Form. Make sure you leave your email so we can contact you 
+Anyone is free to **make suggestions** for new custom events and parameters, using this Google Form. Make sure you leave your email so we can let you know when your suggestion has been reviewed. 
 
-If you'd like to get more involved in the conversation and debate, you can view the [Discussion in Github](https://github.com/Measurelab/GA4EventSchema/discussions). If you want to contribute, you'll need a Github account. [Create a free account here](https://github.com/join?source=comment-repo) if you don't already have one. No coding skills are necessary to join the discussion.
+If you'd like to **join the conversation**, you can view the [Discussion in Github](https://github.com/Measurelab/GA4EventSchema/discussions). You'll need a Github account to post. [Create a free account here](https://github.com/join?source=comment-repo) if you don't already have one - no coding skills required.
+
 We are also considering creating a public channel on Measure Slack - once we have the bandwidth to monitor it and respond in a timely way!
 
-If you'd like to be part of the panel that reviews and ratifies new suggestions, please email us  - Naturally, this requires a good level of understanding of GA4 custom events and parameters and a commitment to remaining actively involved.
+If you'd like to participate in the panel to **review and ratify** new suggestions, please email us. Naturally, this requires a good level of understanding of GA4 custom events and parameters and a commitment to remaining actively involved. At some point we may need to limit numbers to make it workable, but there's no risk of that right now.
 
-Finally, anyone with the skills and inclination can propose changes to this site and the supporting wiki. You can peek under the hood in the [Github repository here](https://github.com/Measurelab/GA4EventSchema).
+Finally, anyone with the skills and inclination can **propose edits** to this site and the supporting wiki. You can peek under the hood in the [Github repository here](https://github.com/Measurelab/GA4EventSchema).
 
 ### Who exactly is the "we"?
 The GA4 Event Schema Org was originally conceived by a bunch of people at the UK-based analytics consultancy, [Measurelab](https://www.measurelab.co.uk). Mark Rochefort, Julian Erbsloeh, Liam Grant, Daniel Perry-Reed, and Steven Elliott have contributed thus far. Join us!
