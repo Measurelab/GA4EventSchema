@@ -29,7 +29,7 @@ To summarise:
 [Version 0.1 of the schema exists here](https://docs.google.com/spreadsheets/d/1ekAwEi_jgztQRYzkZ8y5mCPlt0e139fHvQxdpdQfSZU/edit#gid=0) as a view-only Google Sheet. You are welcome to download or make a copy. We plan to turn this into a table in a page on this site once we've reached "critical mass" in the sheet.
 
 ### How to get involved
-Anyone is free to **make suggestions** for new custom events and parameters, using this Google Form. Make sure you leave your email so we can let you know when your suggestion has been reviewed. 
+Anyone is free to **make suggestions or requests** for new custom events and parameters, using this Google Form. Make sure you leave your email so we can let you know when your suggestion has been reviewed. 
 
 If you'd like to **join the conversation**, you can view the [Discussion in Github](https://github.com/Measurelab/GA4EventSchema/discussions). You'll need a Github account to post. [Create a free account here](https://github.com/join?source=comment-repo) if you don't already have one - no coding skills required.
 
