@@ -1,68 +1,48 @@
-## Welcome
+## Welcome!
 
-This is a message welcoming people to this project and perhaps providing a brief description of what this website is about. Enough for them to be able to judge whether to read on or run away.
+Thanks for dropping by. Allow us to introduce ourselves.
 
-[Link to the sheet](https://docs.google.com/spreadsheets/d/1ekAwEi_jgztQRYzkZ8y5mCPlt0e139fHvQxdpdQfSZU/edit#gid=0) / or to a page with the sheet embedded.
+The GA4 Event Schema Org is an independent, community-driven initiative. Our goal is to create a set of universally- or at least broadly-adopted naming conventions for custom events and parameters in Google Analytics 4 (GA4 to its friends).
 
-### Mission statement
-This is a more in-depth explanation of what we're trying to do here.
+Google has already defined a number of "standard" events, however this list is by no means complete or exhaustive. We believe there are benefits to be gained from further standardisation and alignment across the industry.
 
-It should include:
-- What the problem/challenge is that we're trying to solve
-- Ambition - definition of success 
-- Boundaries/limits of what we're taking on - what this is not supposed to be
-- Operating principles we're going to try to adhere to
+### Who stands to gain from standards?
+
+* Analytics consultancies, agencies and independent contractors
+* In-house marketing and analytics teams
+* Independent software developers building applications and tools to augment and integrate with GA4
+
+A standard set of custom events and parameters will enable easier orientation, faster implementation, greater confidence in data and more innovation.
+
+### Operating principles
+
+We will operate following Open Source principles, set out in greater detail in the [Open Source Way](https://opensource.com/open-source-way).
+
+To summarise:
+* **Transparency.** Giving everyone access to all the information we have, publishing on this site and the Github repository that sits behind it.
+* **Collaboration.** Working with anyone and everyone who wants to get involved in an open, positive way.
+* **Release early and often.** An iterative approach will lead to better outcomes. We'll learn more from doing than talking.
+* **Inclusive meritocracy.** Diverse perspectives are essential. Good ideas can come from anywhere and the best ideas should win. 
+* **Community** Common goals supersede individual interests and agendas.
+
+### The schema
+[Version 0.1 of the schema exists here](https://docs.google.com/spreadsheets/d/1ekAwEi_jgztQRYzkZ8y5mCPlt0e139fHvQxdpdQfSZU/edit#gid=0) as a view-only Google Sheet. You are welcome to download or make a copy. We plan to turn this into a table in a page on this site once we've reached "critical mass" in the sheet.
 
 ### How to get involved
-Who this is open to (everyone).
-What sort of help we need specifically - prompt people.
-How you can sign up / get your name down.
+Anyone is free to make suggestions for new custom events and parameters, using this Google Form. Make sure you leave your email so we can contact you 
 
-### Latest updates 
-A blog/change log of latest news and updates in reverse chronological order i.e. newest at the top. 
-As soon as we have a few, we can move to a separate page.
+If you'd like to get more involved in the conversation and debate, you can view the [Discussion in Github](https://github.com/Measurelab/GA4EventSchema/discussions). If you want to contribute, you'll need a Github account. [Create a free account here](https://github.com/join?source=comment-repo) if you don't already have one. No coding skills are necessary to join the discussion.
+We are also considering creating a public channel on Measure Slack - once we have the bandwidth to monitor it and respond in a timely way!
 
-### Contact 
-Email address / dedicated slack channel on Measureslack?
-Again - if there become a lot of ways to contact or we need more info here, we create a separate page.
+If you'd like to be part of the panel that reviews and ratifies new suggestions, please email us  - Naturally, this requires a good level of understanding of GA4 custom events and parameters and a commitment to remaining actively involved.
 
-### Contributors
-Perhaps maintain a list of people who have signed up to the manifesto, agreed to be bound by operating principles, or just support the mission.
-Do we actually want to set the bar higher for a contributor? Would these just be signatories?
+Finally, anyone with the skills and inclination can propose changes to this site and the supporting wiki. You can peek under the hood in the [Github repository here](https://github.com/Measurelab/GA4EventSchema).
 
+### Who exactly is the "we"?
+The GA4 Event Schema Org was originally conceived by a bunch of people at the UK-based analytics consultancy, [Measurelab](https://www.measurelab.co.uk). Mark Rochefort, Julian Erbsloeh, Liam Grant, Daniel Perry-Reed, and Steven Elliott have contributed thus far. Join us!
 
----
+### Contact us
+Email?
+Slack?
+Other?
 
-# Original GitHub instructions
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Measurelab/GA4EventSchema/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
