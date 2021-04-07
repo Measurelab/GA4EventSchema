@@ -40,7 +40,7 @@ If you'd like to participate in the panel to **review and ratify** new suggestio
 Finally, anyone with the skills and inclination can **propose edits** to this site and the supporting wiki. You can peek under the hood in the [Github repository here](https://github.com/Measurelab/GA4EventSchema).
 
 ### Who exactly is the "we"?
-The GA4 Event Schema Org was originally conceived by a bunch of people at the UK-based analytics consultancy, [Measurelab](https://www.measurelab.co.uk). Mark Rochefort, Julian Erbsloeh, Liam Grant, Daniel Perry-Reed, and Steven Elliott have contributed thus far. Join us!
+The GA4 Event Schema Org was originally conceived by a bunch of people at the UK-based analytics consultancy, [Measurelab](https://www.measurelab.co.uk). Daniel Perry-Reed, Julian Erbsloeh, Lace Rogers, Liam Grant, Mark Rochefort and Steven Elliott have contributed thus far. Join us!
 
 ### Contact us
 Email?
