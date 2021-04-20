@@ -5,7 +5,6 @@ permalink: /custom-events/
 ---
 
 
-<!doctype html>
 <html>
 <head>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -59,7 +58,7 @@ permalink: /custom-events/
   });
 
   </script>   
-<script src="https://spreadsheets.google.com/feeds/cells/1hbHqrnYa4oMUquZcq8WkTJk0kI0t9scGBwro-EH-ALA/1/public/values?alt=json-in-script&callback=doData"></script>
+<script src="https://spreadsheets.google.com/feeds/cells/1ekAwEi_jgztQRYzkZ8y5mCPlt0e139fHvQxdpdQfSZU/1/public/values?alt=json-in-script&callback=doData"></script>
 <style type="text/css">
   table {border-collapse: collapse; width: 100%;}
   th, td {border: thin solid black; padding: 3px;}
