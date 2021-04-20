@@ -1,4 +1,4 @@
-import GSheetsapi from './gsheetsapi.js';
+import GSheetsapi from '/gsheetsapi.js';
 
 function matchValues(valToMatch, valToMatchAgainst, matchingType) {
   try {
