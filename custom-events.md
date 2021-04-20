@@ -5,76 +5,17 @@ permalink: /custom-events/
 ---
 
 
-<html>
-<head>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript">
-  var spData = null;
-  function doData(json) {
-      spData = json.feed.entry;
-  }
-  
-  function drawCell(tr, val) {
-      var td = $("<td/>");
-      tr.append(td);
-      td.append(val);
-      return td;
-  }
-  function drawRow(table, rowData) {
-	  if (rowData == null) return null;
-	  if (rowData.length == 0) return null;
-	  var tr = $("<tr/>");
-	  table.append(tr);
-	  for(var c=0; c<rowData.length; c++) {
-		  drawCell(tr, rowData[c]);
-	  }
-	  return tr;
-  }
-  
-  function drawTable(parent) {
-	  var table = $("<table/>");
-	  parent.append(table);
-	  return table;
-  }
-  
-  function readData(parent) {
-      var data = spData;
-      var table = drawTable(parent);
-      var rowData = [];
-      
-      for(var r=0; r<data.length; r++) {
-          var cell = data[r]["gs$cell"];
-          var val = cell["$t"];
-          if (cell.col == 1) {
-              drawRow(table, rowData);
-              rowData = [];
-          }
-          rowData.push(val);
-      }
-      drawRow(table, rowData);
-  }
-  $(document).ready(function(){
-      readData($("#data"));
-  });
-  </script>   
-<script src="https://spreadsheets.google.com/feeds/cells/XxZmn371FRusw5XOzjJUtRhHvR20MMbmZCMP/1/public/values?alt=json-in-script&callback=doData"></script>
-<style type="text/css">
-  table {border-collapse: collapse; width: 100%;}
-  th, td {border: thin solid black; padding: 3px;}
-  tr.head th, tr.head td {background-color: #EDEDED; border-bottom: 4px double black;}
-  span.linetitle {font-weight: bold;}
-  div.lineclass {font-style: italic;}
-  .title, .result {width: 80%;}
-  .notes {width: 15%;}
-  h1 {text-align: center;}
-  body {margin: 12px; font-size: 12px;}
-</style>
-<style type="text/css" media="print">
-  form {display: none;}
-</style>
-</head>
-<body>
-<h1>Custom Events</h1>
-<div id="data"/>
-</body>
-</html> 
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+  </head>
+  <body>
+
+    <main id="output">
+      ...loading
+    </main>
+
+    <script src="./custom-events.js"></script>
+  </body>
+</html>
