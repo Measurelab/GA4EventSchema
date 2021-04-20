@@ -16,6 +16,6 @@ permalink: /custom-events/
       ...loading
     </main>
 
-    <script src="./custom-events.js"></script>
+    <script src="/custom-events.js"></script>
   </body>
 </html>
