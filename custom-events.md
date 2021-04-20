@@ -56,9 +56,8 @@ permalink: /custom-events/
   $(document).ready(function(){
       readData($("#data"));
   });
-
   </script>   
-<script src="https://spreadsheets.google.com/feeds/cells/1ekAwEi_jgztQRYzkZ8y5mCPlt0e139fHvQxdpdQfSZU/1/public/values?alt=json-in-script&callback=doData"></script>
+<script src="https://spreadsheets.google.com/feeds/cells/XxZmn371FRusw5XOzjJUtRhHvR20MMbmZCMP/1/public/values?alt=json-in-script&callback=doData"></script>
 <style type="text/css">
   table {border-collapse: collapse; width: 100%;}
   th, td {border: thin solid black; padding: 3px;}
