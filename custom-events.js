@@ -1,10 +1,7 @@
 import GSheetProcessor from './gsheetsprocessor.js';
 
-// test Sheet url
-const demoSheetURL = 'https://docs.google.com/spreadsheets/d/1ekAwEi_jgztQRYzkZ8y5mCPlt0e139fHvQxdpdQfSZU/edit#gid=0';
-
 const options = {
-  sheetId: "",
+  sheetId: "1ekAwEi_jgztQRYzkZ8y5mCPlt0e139fHvQxdpdQfSZU",
   sheetNumber: 1,
   returnAllResults: true
 };
