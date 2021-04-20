@@ -1,4 +1,4 @@
-import GSheetProcessor from './gsheetsprocessor.js';
+import GSheetProcessor from '/gsheetsprocessor.js';
 
 const options = {
   sheetId: "1ekAwEi_jgztQRYzkZ8y5mCPlt0e139fHvQxdpdQfSZU",
