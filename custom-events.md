@@ -61,6 +61,8 @@ permalink: /custom-events/
 
 <script src="https://spreadsheets.google.com/feeds/cells/1ekAwEi_jgztQRYzkZ8y5mCPlt0e139fHvQxdpdQfSZU/2/public/values?alt=json-in-script&callback=doData"></script>
 
+Back to <a href="https://ga4eventschema.org/">GA4EventSchema.org</a>
+
 <div id="data"/>
 
 
