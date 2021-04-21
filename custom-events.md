@@ -4,12 +4,6 @@ title: "CUSTOM EVENTS"
 permalink: /custom-events/
 ---
 
-/* edit the bit in the URL below after /cells/ to point to a new sheet and then the number after that is the number for the tab to pull in */
-<script src="https://spreadsheets.google.com/feeds/cells/1ekAwEi_jgztQRYzkZ8y5mCPlt0e139fHvQxdpdQfSZU/2/public/values?alt=json-in-script&callback=doData"></script>
-
-<div id="data"/>
-
-
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script type="text/javascript">
@@ -61,3 +55,12 @@ permalink: /custom-events/
       readData($("#data"));
   });
 </script> 
+
+
+<script src="https://spreadsheets.google.com/feeds/cells/1ekAwEi_jgztQRYzkZ8y5mCPlt0e139fHvQxdpdQfSZU/2/public/values?alt=json-in-script&callback=doData"></script>
+
+<div id="data"/>
+
+
+
+
