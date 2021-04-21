@@ -5,8 +5,6 @@ permalink: /custom-events/
 ---
 
 
-<html>
-<head>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script type="text/javascript">
   var spData = null;
@@ -59,23 +57,7 @@ permalink: /custom-events/
 
   </script>   
 <script src="https://spreadsheets.google.com/feeds/cells/1ekAwEi_jgztQRYzkZ8y5mCPlt0e139fHvQxdpdQfSZU/2/public/values?alt=json-in-script&callback=doData"></script>
-<style type="text/css">
-  table {border-collapse: collapse; width: 100%;}
-  th, td {border: thin solid black; padding: 3px;}
-  tr.head th, tr.head td {background-color: #EDEDED; border-bottom: 4px double black;}
-  span.linetitle {font-weight: bold;}
-  div.lineclass {font-style: italic;}
-  .title, .result {width: 80%;}
-  .notes {width: 15%;}
-  h1 {text-align: center;}
-  body {margin: 12px; font-size: 12px;}
-</style>
-<style type="text/css" media="print">
-  form {display: none;}
-</style>
-</head>
-<body>
+
 <h1>Demo to parse Google Spreadsheet with JavaScript</h1> 
 <div id="data"/>
-</body>
-</html> 
+
