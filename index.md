@@ -1,4 +1,4 @@
-## Welcome!
+o## Welcome!
 
 Thanks for dropping by.
 
@@ -42,9 +42,9 @@ To summarise:
 * **Community** Common goals supersede individual interests and agendas.
 
 ### Who exactly is the "we"?
-The GA4 Event Schema Org was originally conceived by a bunch of people at the UK-based analytics consultancy, [Measurelab](https://www.measurelab.co.uk). Daniel Perry-Reed, Julian Erbsloeh, Lace Rogers, Liam Grant, Mark Rochefort and Steven Elliott have contributed thus far. Join us!
+The GA4 Event Schema Org was originally conceived by a bunch of people at the UK-based analytics consultancy, [Measurelab](https://www.measurelab.co.uk). Join us!
 
 ### Contact us
-You can [send an email to Dan at Measurelab](mailto:daniel@measurelab.co.uk) and we'll get back to you as soon as possible. Thanks for the interest!
+You can [send an email to us at Measurelab](mailto:hello@measurelab.co.uk) and we'll get back to you as soon as possible. Thanks for the interest!
 
 
